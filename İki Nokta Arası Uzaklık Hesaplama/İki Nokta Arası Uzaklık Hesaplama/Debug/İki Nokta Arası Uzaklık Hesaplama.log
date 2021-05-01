@@ -1,0 +1,8 @@
+﻿  İki Nokta Arası Uzaklık Hesaplama.cpp
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(37,17): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(69,19): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(77,72): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(77,68): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(77,99): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama\İki Nokta Arası Uzaklık Hesaplama.cpp(77,95): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  İki Nokta Arası Uzaklık Hesaplama.vcxproj -> C:\Users\DEDEÇ\Desktop\MyCWorks01\İki Nokta Arası Uzaklık Hesaplama\Debug\İki Nokta Arası Uzaklık Hesaplama.exe
